@@ -1,0 +1,9 @@
+body {
+  font-family: 'sans-serif', sans-serif, serif;
+  font-size: 15px;
+  background: var(--bg);
+  color: var(--text);
+  padding: 48px 60px;
+  max-width: 960px;
+  line-height: 1.7;
+}
